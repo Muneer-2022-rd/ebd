@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EBD</string>
+    <string name="facebook_app_id">2197733857142391</string>
+    <string name="fb_login_protocol_scheme">fb2197733857142391</string>
+    <string name="facebook_client_token">370fe02f6a0fb6d7da485b858d303816</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">428945060260-et5jlfdc70lr7ftu14s907rgrjqio5js.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">428945060260</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjSnHaId832aLodJzqDgPl5uE102laJqU</string>
+    <string name="google_app_id" translatable="false">1:428945060260:android:5a58a7dcd98daa46249131</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjSnHaId832aLodJzqDgPl5uE102laJqU</string>
+    <string name="google_storage_bucket" translatable="false">emirates-bd.appspot.com</string>
+    <string name="project_id" translatable="false">emirates-bd</string>
+</resources>

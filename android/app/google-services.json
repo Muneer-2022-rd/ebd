@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428945060260",
+    "project_id": "emirates-bd",
+    "storage_bucket": "emirates-bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428945060260:android:5a58a7dcd98daa46249131",
+        "android_client_info": {
+          "package_name": "com.uct.ebd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428945060260-4tmhob0phlg8jhrmliikfofdqic8bm0s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uct.ebd",
+            "certificate_hash": "4199fc64b8a6336732e93d35ca7916c3828c3959"
+          }
+        },
+        {
+          "client_id": "428945060260-et5jlfdc70lr7ftu14s907rgrjqio5js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjSnHaId832aLodJzqDgPl5uE102laJqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428945060260-et5jlfdc70lr7ftu14s907rgrjqio5js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
